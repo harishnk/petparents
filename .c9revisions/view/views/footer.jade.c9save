@@ -1,0 +1,2 @@
+{"ts":1353195846858,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1353195863583,"patch":[[{"diffs":[[1,"#footer\r\n    div Copyright &copy; Pet Parents #{+new Date().getFullYear()} \r\n    a(href='/page?name=about') About \r\n    | |  \r\n    a(href='/page?name=contact') Contact Us"]],"start1":0,"start2":0,"length1":0,"length2":170}]],"length":170,"saved":false}

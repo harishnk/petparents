@@ -1,0 +1,2 @@
+{"ts":1353196043929,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1353196048699,"patch":[[{"diffs":[[1,"#container\r\n    #logo\r\n        img(src='/images/logo.png')\r\n    #display\r\n        include userbar\r\n            \r\n        -for (var id in items)\r\n            - var item = items[id]\r\n            div\r\n                a(href='/item/#{id}') #{item.name} - $#{item.type}\r\n        \r\n    include footer"]],"start1":0,"start2":0,"length1":0,"length2":294}]],"length":294,"saved":false}

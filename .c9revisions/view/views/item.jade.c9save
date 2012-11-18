@@ -1,0 +1,2 @@
+{"ts":1353195971418,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1353195993121,"patch":[[{"diffs":[[1,"#container\r\n    #logo\r\n        img(src='/images/logo.png')\r\n    #display\r\n        include userbar\r\n    \r\n    include footer"]],"start1":0,"start2":0,"length1":0,"length2":123}]],"length":123,"saved":false}
